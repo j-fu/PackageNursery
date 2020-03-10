@@ -5,3 +5,4 @@ description = "Experimental package registry"
 
 [packages]
 529833da-d7f1-5821-aee9-3785d4589272 = { name = "VTKMinimal_jll", path = "VTKMinimal_jll" }
+2bcdf5c0-6329-11ea-0b83-f5d1b57ecfa1 = { name = "vtkfig_jll", path = "vtkfig_jll" }
