@@ -1,0 +1,7 @@
+name = "LocalRegistry"
+uuid = "efe96826-6319-11ea-2526-2d08b851a775"
+#repo = "https://github.com/<user>/TestRegistry.jl.git"
+repo = "file:///home/fuhrmann/Wias/work/julia/dev/LocalRegistry
+description = "Local package registry"
+
+[packages]
