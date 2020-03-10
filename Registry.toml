@@ -4,3 +4,4 @@ repo = "https://github.com/j-fu/JFURegistry.jl.git"
 description = "Experimental package registry"
 
 [packages]
+529833da-d7f1-5821-aee9-3785d4589272 = { name = "VTKMinimal_jll", path = "VTKMinimal_jll" }
