@@ -1,0 +1,4 @@
+authors = ["Juergen Fuhrmann <juergen.fuhrmann@wias-berlin.de>"]
+name = "NurseryTest"
+repo = "git@github.com:j-fu/NurseryTest.jl"
+uuid = "0714413a-66da-11ea-1294-e93a8f6a993b"

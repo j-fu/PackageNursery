@@ -1,8 +1,9 @@
-name = "JFURegistry"
+name = "PackageNursery"
 uuid = "efe96826-6319-11ea-2526-2d08b851a775"
-repo = "https://github.com/j-fu/JFURegistry.jl.git"
-description = "Experimental package registry"
+repo = "https://github.com/j-fu/PackageNursery.jl.git"
+description = "Registry for packages under development"
 
 [packages]
-529833da-d7f1-5821-aee9-3785d4589272 = { name = "VTKMinimal_jll", path = "VTKMinimal_jll" }
-2bcdf5c0-6329-11ea-0b83-f5d1b57ecfa1 = { name = "vtkfig_jll", path = "vtkfig_jll" }
+0714413a-66da-11ea-1294-e93a8f6a993b = { name = "NurseryTest", path = "N/NurseryTest" }
+2bcdf5c0-6329-11ea-0b83-f5d1b57ecfa1 = { name = "vtkfig_jll", path = "V/vtkfig_jll" }
+529833da-d7f1-5821-aee9-3785d4589272 = { name = "VTKMinimal_jll", path = "V/VTKMinimal_jll" }
