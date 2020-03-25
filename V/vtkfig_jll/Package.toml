@@ -1,6 +1,3 @@
 name = "vtkfig_jll"
 uuid = "10287013-a584-5a38-a29a-42553acd0316"
-author = "Jürgen Fuhrmann"
 repo = "https://github.com/j-fu/vtkfig_jll.jl.git"
-
-
