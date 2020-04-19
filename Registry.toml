@@ -5,6 +5,7 @@ description = "Registry for packages under development"
 
 [packages]
 0714413a-66da-11ea-1294-e93a8f6a993b = { name = "NurseryTest", path = "N/NurseryTest" }
+1015158d-cf91-42d0-8ede-00fb4817e22a = { name = "XGrid", path = "X/XGrid" }
 10287013-a584-5a38-a29a-42553acd0316 = { name = "vtkfig_jll", path = "V/vtkfig_jll" }
 529833da-d7f1-5821-aee9-3785d4589272 = { name = "VTKMinimal_jll", path = "V/VTKMinimal_jll" }
 63b67fce-66f7-11ea-1808-1361d8c55bf4 = { name = "VTKView", path = "V/VTKView" }
