@@ -9,3 +9,4 @@ description = "Registry for packages under development"
 10287013-a584-5a38-a29a-42553acd0316 = { name = "vtkfig_jll", path = "V/vtkfig_jll" }
 529833da-d7f1-5821-aee9-3785d4589272 = { name = "VTKMinimal_jll", path = "V/VTKMinimal_jll" }
 63b67fce-66f7-11ea-1808-1361d8c55bf4 = { name = "VTKView", path = "V/VTKView" }
+b47fdcd6-d2c1-58e9-bbba-c1cee8d8c179 = { name = "TetGen_jll", path = "T/TetGen_jll" }
