@@ -8,5 +8,6 @@ description = "Registry for packages under development"
 1015158d-cf91-42d0-8ede-00fb4817e22a = { name = "XGrid", path = "X/XGrid" }
 10287013-a584-5a38-a29a-42553acd0316 = { name = "vtkfig_jll", path = "V/vtkfig_jll" }
 529833da-d7f1-5821-aee9-3785d4589272 = { name = "VTKMinimal_jll", path = "V/VTKMinimal_jll" }
+57876ffe-7b7d-4c51-befe-9eb7dc4baaca = { name = "PlutoCanvasPlot", path = "P/PlutoCanvasPlot" }
 63b67fce-66f7-11ea-1808-1361d8c55bf4 = { name = "VTKView", path = "V/VTKView" }
 a3567244-722b-4f42-a7ec-0aeabca28c09 = { name = "RotatingElectrodes", path = "R/RotatingElectrodes" }
