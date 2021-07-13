@@ -1,0 +1,3 @@
+name = "TwoPointDirichletFlux"
+uuid = "fdf3a005-71a1-4f4b-b6cc-89be6b2f2afa"
+repo = "git@gitlab.eudat.eu:juergen.fuhrmann/TwoPointDirichletFlux.jl.git"
