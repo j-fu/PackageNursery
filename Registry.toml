@@ -10,5 +10,6 @@ description = "Registry for packages under development"
 19f70b67-2887-4cf9-b19e-fe1a30c34d85 = { name = "PlutoVTKPlot", path = "P/PlutoVTKPlot" }
 529833da-d7f1-5821-aee9-3785d4589272 = { name = "VTKMinimal_jll", path = "V/VTKMinimal_jll" }
 57876ffe-7b7d-4c51-befe-9eb7dc4baaca = { name = "PlutoCanvasPlot", path = "P/PlutoCanvasPlot" }
+5a7dfd8c-b3af-4c8d-a082-d3a774d75e72 = { name = "LiquidElectrolytes", path = "L/LiquidElectrolytes" }
 63b67fce-66f7-11ea-1808-1361d8c55bf4 = { name = "VTKView", path = "V/VTKView" }
 fdf3a005-71a1-4f4b-b6cc-89be6b2f2afa = { name = "TwoPointDirichletFlux", path = "T/TwoPointDirichletFlux" }
