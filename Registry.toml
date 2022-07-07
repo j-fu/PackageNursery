@@ -12,4 +12,5 @@ description = "Registry for packages under development"
 57876ffe-7b7d-4c51-befe-9eb7dc4baaca = { name = "PlutoCanvasPlot", path = "P/PlutoCanvasPlot" }
 5a7dfd8c-b3af-4c8d-a082-d3a774d75e72 = { name = "LiquidElectrolytes", path = "L/LiquidElectrolytes" }
 63b67fce-66f7-11ea-1808-1361d8c55bf4 = { name = "VTKView", path = "V/VTKView" }
+f29f6376-6e90-4d80-80c9-fb8ec61203d5 = { name = "LessUnitful", path = "L/LessUnitful" }
 fdf3a005-71a1-4f4b-b6cc-89be6b2f2afa = { name = "TwoPointDirichletFlux", path = "T/TwoPointDirichletFlux" }
