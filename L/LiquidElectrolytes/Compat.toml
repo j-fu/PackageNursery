@@ -18,6 +18,9 @@ Unitful = "1"
 ["0.0.17-0"]
 julia = "1.7.0-1"
 
+["0.0.19-0"]
+VoronoiFVM = "0.17-0.18"
+
 ["0.0.3-0"]
 DocStringExtensions = "0.8-0.9"
 ExtendableGrids = "0.9.6-0.9"
@@ -44,7 +47,7 @@ PhysicalConstants = "0.2.1-0.2"
 Unitful = "1.11.0-1"
 VoronoiFVM = "0.16.4-0.16"
 
-["0.0.5-0"]
+["0.0.5-0.0.18"]
 VoronoiFVM = "0.17"
 
 ["0.0.6"]
