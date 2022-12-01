@@ -1,0 +1,6 @@
+[0]
+ColorSchemes = "3"
+Colors = "0.12"
+DocStringExtensions = "0.8-0.9"
+GeometryBasics = "0.4"
+StaticArrays = "1"
