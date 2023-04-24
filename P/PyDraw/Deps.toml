@@ -1,4 +1,6 @@
 [0]
-LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 Triangulate = "f7e6ffb2-c36d-4f8f-a77e-16e897189344"
+
+["0-0.0.1"]
+LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
