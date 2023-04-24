@@ -15,4 +15,5 @@ description = "Registry for packages under development"
 63b67fce-66f7-11ea-1808-1361d8c55bf4 = { name = "VTKView", path = "V/VTKView" }
 c4d4532c-19f6-4375-9ced-3808a145cd37 = { name = "VoronoiFVMDiffEq", path = "V/VoronoiFVMDiffEq" }
 f29f6376-6e90-4d80-80c9-fb8ec61203d5 = { name = "LessUnitful", path = "L/LessUnitful" }
+fce23259-28de-47d5-8db8-ab4b90e0411e = { name = "PyDraw", path = "P/PyDraw" }
 fdf3a005-71a1-4f4b-b6cc-89be6b2f2afa = { name = "TwoPointDirichletFlux", path = "T/TwoPointDirichletFlux" }
