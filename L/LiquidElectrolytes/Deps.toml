@@ -33,6 +33,9 @@ Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 ["0.0.14"]
 GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
 
+["0.0.23-0"]
+RecursiveArrayTools = "731186ca-8d62-57ce-b412-fbd966d074cd"
+
 ["0.0.3-0"]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 
