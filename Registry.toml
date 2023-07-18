@@ -7,6 +7,7 @@ description = "Registry for packages under development"
 0714413a-66da-11ea-1294-e93a8f6a993b = { name = "NurseryTest", path = "N/NurseryTest" }
 1015158d-cf91-42d0-8ede-00fb4817e22a = { name = "XGrid", path = "X/XGrid" }
 10287013-a584-5a38-a29a-42553acd0316 = { name = "vtkfig_jll", path = "V/vtkfig_jll" }
+12fb9182-3d4c-4424-8fd1-727a0899810c = { name = "ExtendableFEMBase", path = "E/ExtendableFEMBase" }
 19f70b67-2887-4cf9-b19e-fe1a30c34d85 = { name = "PlutoVTKPlot", path = "P/PlutoVTKPlot" }
 529833da-d7f1-5821-aee9-3785d4589272 = { name = "VTKMinimal_jll", path = "V/VTKMinimal_jll" }
 5573ae12-3b76-41d9-b48c-81d0b6e61cc5 = { name = "GridVisualizeTools", path = "G/GridVisualizeTools" }
