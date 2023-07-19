@@ -14,6 +14,7 @@ description = "Registry for packages under development"
 57876ffe-7b7d-4c51-befe-9eb7dc4baaca = { name = "PlutoCanvasPlot", path = "P/PlutoCanvasPlot" }
 5a7dfd8c-b3af-4c8d-a082-d3a774d75e72 = { name = "LiquidElectrolytes", path = "L/LiquidElectrolytes" }
 63b67fce-66f7-11ea-1808-1361d8c55bf4 = { name = "VTKView", path = "V/VTKView" }
+a722555e-65e0-4074-a036-ca7ce79a4aed = { name = "ExtendableFEM", path = "E/ExtendableFEM" }
 c4d4532c-19f6-4375-9ced-3808a145cd37 = { name = "VoronoiFVMDiffEq", path = "V/VoronoiFVMDiffEq" }
 f29f6376-6e90-4d80-80c9-fb8ec61203d5 = { name = "LessUnitful", path = "L/LessUnitful" }
 fce23259-28de-47d5-8db8-ab4b90e0411e = { name = "PyDraw", path = "P/PyDraw" }
