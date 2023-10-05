@@ -1,0 +1,3 @@
+name = "ExtendableVEM"
+uuid = "37660ccd-59e9-449e-8aac-be04bab01727"
+repo = "https://github.com/chmerdon/ExtendableVEM.jl.git"

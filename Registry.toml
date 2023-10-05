@@ -9,6 +9,7 @@ description = "Registry for packages under development"
 10287013-a584-5a38-a29a-42553acd0316 = { name = "vtkfig_jll", path = "V/vtkfig_jll" }
 12fb9182-3d4c-4424-8fd1-727a0899810c = { name = "ExtendableFEMBase", path = "E/ExtendableFEMBase" }
 19f70b67-2887-4cf9-b19e-fe1a30c34d85 = { name = "PlutoVTKPlot", path = "P/PlutoVTKPlot" }
+37660ccd-59e9-449e-8aac-be04bab01727 = { name = "ExtendableVEM", path = "E/ExtendableVEM" }
 529833da-d7f1-5821-aee9-3785d4589272 = { name = "VTKMinimal_jll", path = "V/VTKMinimal_jll" }
 5573ae12-3b76-41d9-b48c-81d0b6e61cc5 = { name = "GridVisualizeTools", path = "G/GridVisualizeTools" }
 57876ffe-7b7d-4c51-befe-9eb7dc4baaca = { name = "PlutoCanvasPlot", path = "P/PlutoCanvasPlot" }
