@@ -15,6 +15,9 @@ SparseDiffTools = "47a9eef4-7e08-11e9-0b38-333d64bd3804"
 Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
 UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
 
+["0.0.14-0"]
+ExampleJuggler = "3bbe58f8-ed81-4c4e-a134-03e85fcf4a1a"
+
 ["0.0.2-0"]
 DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
 
