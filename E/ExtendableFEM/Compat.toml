@@ -28,7 +28,7 @@ julia = "1.9.0-1"
 ["0.0.15"]
 ExtendableFEMBase = "0.0.16"
 
-["0.0.16-0"]
+["0.0.16-0.0"]
 ExtendableFEMBase = "0.0.17"
 
 ["0.0.2"]
@@ -45,3 +45,9 @@ ExtendableFEMBase = "0.0.9"
 
 ["0.0.8"]
 ExtendableFEMBase = "0.0.11"
+
+["0.1-0"]
+DocStringExtensions = "0.8-0.9"
+ExtendableFEMBase = "0.1"
+GridVisualize = "1.5.0-1"
+Symbolics = "4.2.0-5"

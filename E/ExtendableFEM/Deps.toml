@@ -9,13 +9,15 @@ GridVisualize = "5eed8a63-0fb0-45eb-886d-8d5a387d12b8"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 LinearSolve = "7ed4a6bd-45f5-4d41-b270-4a48e9bafcae"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
-RuntimeGeneratedFunctions = "7e49a35a-f44a-4d26-94aa-eba1b4ca6b47"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 SparseDiffTools = "47a9eef4-7e08-11e9-0b38-333d64bd3804"
 Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
+
+["0.0"]
+RuntimeGeneratedFunctions = "7e49a35a-f44a-4d26-94aa-eba1b4ca6b47"
 UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
 
-["0.0.14-0"]
+["0.0.14-0.0"]
 ExampleJuggler = "3bbe58f8-ed81-4c4e-a134-03e85fcf4a1a"
 
 ["0.0.2-0"]
