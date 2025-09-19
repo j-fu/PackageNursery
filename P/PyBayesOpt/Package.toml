@@ -1,0 +1,3 @@
+name = "PyBayesOpt"
+uuid = "ec14edaa-b110-45d8-b073-5b582e9ce5cd"
+repo = "git@github.com:j-fu/PyBayesOpt.jl.git"
