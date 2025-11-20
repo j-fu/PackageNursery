@@ -1,0 +1,4 @@
+name = "JuliaMPBSolver"
+uuid = "d8b18f01-5396-498d-b34d-247825c18ff0"
+repo = "git@github.com:j-fu/PoissonBoltzmannIPAM2025.git"
+subdir = "packages/JuliaMPBSolver"
