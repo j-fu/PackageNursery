@@ -1,8 +1,5 @@
 [0]
-CSV = "0.10.15 - 0.10"
-DataFrames = "1.8.1 - 1"
 ExtendableGrids = "1.14.0 - 1"
-HDF5 = "0.17.2 - 0.17"
 InteractiveUtils = "1.11.0 - 1"
 LessUnitful = "1.2.1 - 1"
 LinearAlgebra = "1.11.0 - 1"
@@ -11,3 +8,8 @@ PreallocationTools = "0.4.34 - 0.4"
 Unitful = "1.25.1 - 1"
 VoronoiFVM = "2.13.0 - 2"
 julia = "1.11.0 - 1"
+
+["0 - 0.2"]
+CSV = "0.10.15 - 0.10"
+DataFrames = "1.8.1 - 1"
+HDF5 = "0.17.2 - 0.17"
