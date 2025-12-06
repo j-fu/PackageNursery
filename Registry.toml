@@ -21,6 +21,7 @@ description = "Registry for packages under development"
 a722555e-65e0-4074-a036-ca7ce79a4aed = { name = "ExtendableFEM", path = "E/ExtendableFEM" }
 c4d4532c-19f6-4375-9ced-3808a145cd37 = { name = "VoronoiFVMDiffEq", path = "V/VoronoiFVMDiffEq" }
 d8b18f01-5396-498d-b34d-247825c18ff0 = { name = "JuliaMPBSolver", path = "J/JuliaMPBSolver" }
+d8b18f01-5396-498d-b34d-247825c18ff1 = { name = "AugmentedPoissonBoltzmann", path = "A/AugmentedPoissonBoltzmann" }
 ec14edaa-b110-45d8-b073-5b582e9ce5cd = { name = "PyBayesOpt", path = "P/PyBayesOpt" }
 f29f6376-6e90-4d80-80c9-fb8ec61203d5 = { name = "LessUnitful", path = "L/LessUnitful" }
 fce23259-28de-47d5-8db8-ab4b90e0411e = { name = "PyDraw", path = "P/PyDraw" }
